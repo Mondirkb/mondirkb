@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Mondirkb/mondirkb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondirkb&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondirkb&show_icons=true&theme=radical&langs_count=3&layout=default&hide_border=false" />
 </a>
 
 </p>
