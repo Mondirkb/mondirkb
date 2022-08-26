@@ -8,7 +8,7 @@
 - 👩‍💻 I’m currently working on Penetration Tester 
 - 🛰 I’m looking to learn 5G/6G with intergration AI  
 - 👯 My website is available at **[mondirkb.github.io](https://mondirkb.github.io/)**
-- 🤔 I’m looking for help with ...
+
 
 
 
