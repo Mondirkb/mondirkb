@@ -45,7 +45,7 @@
 <br/>
 ## Connect with me:
 <p align="left">
-<a href = "https://twitter.com/mondirkb"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
+<a href = "https://twitter.com/mondir_kb"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
 <a href = "https://github.com/mondirkb"><img src="https://img.icons8.com/metro/52/000000/github.png"/></a>
 <a href = "https://www.facebook.com/mondir.home"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
 <a href = "https://www.linkedin.com/in/mondirkb"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>
