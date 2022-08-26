@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moundir</h1>
+
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player</h3>
 
-**Mondirkb/mondirkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
 - 👩‍💻 I’m currently working on Penetration Tester 
 - 🛰 I’m looking to learn 5G/6G with intergration AI  
@@ -26,3 +26,27 @@ Here are some ideas to get you started:
     <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
 </p>
 <br/>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mondirkb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dedinfosec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mondirkb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Moundir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondirkb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+<br/>
+<br/>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Dedinfosec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mondirkb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+## Connect with me:
+<p align="left">
+<a href = "https://twitter.com/mondirkb"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
+<a href = "https://github.com/mondirkb"><img src="https://img.icons8.com/metro/52/000000/github.png"/></a>
+<a href = "https://www.facebook.com/mondir.home/"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
+</p>
+
+
