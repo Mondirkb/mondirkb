@@ -47,6 +47,7 @@
 <a href = "https://twitter.com/mondirkb"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
 <a href = "https://github.com/mondirkb"><img src="https://img.icons8.com/metro/52/000000/github.png"/></a>
 <a href = "https://www.facebook.com/mondir.home/"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mondir.home/"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>
 </p>
 
 
