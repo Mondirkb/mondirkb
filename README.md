@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👩‍💻 I’m currently working on Penetration Tester 
+- 👩‍💻 I’m currently working  on Web Application penetration Testing  
 - 🛰 I’m looking to learn 5G/6G with intergration AI  
 - 👯 My website is available at **[mondirkb.github.io](https://mondirkb.github.io/)**
 
