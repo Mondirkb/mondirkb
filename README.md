@@ -40,7 +40,7 @@
   <br/>
 <br/>
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Moundir's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mondirkb&?username=mondirkb&theme=dracula&point=24292e&area=true&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Moundir's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mondirkb&?username=mondirkb&theme=xcode&point=24292e&area=true&hide_border=true" /></a>
 <br/>
 <br/>
 ## Connect with me:
