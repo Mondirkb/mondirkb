@@ -40,7 +40,7 @@
   <br/>
 <br/>
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Moundir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mondirkb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Moundir's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&" /></a>
 <br/>
 <br/>
 ## Connect with me:
